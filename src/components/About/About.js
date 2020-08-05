@@ -15,15 +15,15 @@ const About = ({ name }) => {
 					<p>
 						Some of my previous works:
 						<a rel="noopener noreferrer" target="_BLANK" href="https://heno.app">
-							Betternode
+							HenoApp
 						</a>
 						,
 						<a rel="noopener noreferrer" target="_BLANK" href="https://depremx.org">
-							CryptoBeanie
+							DepremX
 						</a>
 						,
 						<a rel="noopener noreferrer" target="_BLANK" href="https://tuval.co">
-							ClixWall
+							Tuval
 						</a>
 					</p>
 				</div>
